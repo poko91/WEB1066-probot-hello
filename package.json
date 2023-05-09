@@ -20,14 +20,14 @@
     "test:watch": "jest --watch --notify --notifyMode=change --coverage"
   },
   "dependencies": {
-    "probot": "^7.0.0"
+    "probot": "^12.3.0"
   },
   "devDependencies": {
-    "jsdom": "11.11.0",
-    "jest": "^23.4.2",
-    "nodemon": "^1.17.2",
+    "jest": "^29.5.0",
+    "jsdom": "^22.0.0",
+    "nodemon": "^2.0.22",
     "smee-client": "^1.0.2",
-    "standard": "^10.0.3"
+    "standard": "^17.0.0"
   },
   "engines": {
     "node": ">= 8.3.0 <8.12.0"
